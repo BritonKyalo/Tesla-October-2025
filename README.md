@@ -1,5 +1,5 @@
 ### Tesla Clone
-*** Initiaiization ***
+**Initialization**
 - Clone the app
 - Run npm install for dependencies
 
